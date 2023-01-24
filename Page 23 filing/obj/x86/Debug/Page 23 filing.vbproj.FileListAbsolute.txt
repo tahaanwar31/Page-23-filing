@@ -1,0 +1,8 @@
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\bin\Debug\Page 23 filing.exe
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\bin\Debug\Page 23 filing.pdb
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\bin\Debug\Page 23 filing.xml
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\obj\x86\Debug\ConsoleApplication1.Resources.resources
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\obj\x86\Debug\Page 23 filing.vbproj.GenerateResource.Cache
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\obj\x86\Debug\Page 23 filing.exe
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\obj\x86\Debug\Page 23 filing.xml
+T:\Alevels\Alevels Computer Science\Visual Basic Programs\Filing programs\Page 23 filing\Page 23 filing\obj\x86\Debug\Page 23 filing.pdb
